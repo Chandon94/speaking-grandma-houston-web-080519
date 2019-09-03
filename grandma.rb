@@ -7,7 +7,7 @@ end
 if phrase != phrase.upcase()
   return 'HUH?! SPEAK UP, SONNY!'
    
- else 
+ else return
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
