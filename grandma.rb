@@ -5,7 +5,6 @@ end
 
 if phrase != phrase.upcase()
   return 'HUH?! SPEAK UP, SONNY!'
-end
    
  else 
    return "NO, NOT SINCE 1938!"
